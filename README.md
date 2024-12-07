@@ -1,13 +1,10 @@
-# <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> Hi, my name is Deepesh!
-<!-- ^This is one of my projects -->
-💻 Currently, I'm honing my coding skills and exploring the fascinating world of Web Dev and AI
+Hi, my name is Deepesh! 😊
+<br>
+Currently, I'm honing my coding skills and exploring the fascinating world of Web Dev and Web3.
+<br>
+I like combining my technical knowledge with design to make beautiful and efficient applications. My goal is to build scalable and efficient software while providing engaging and flawless user experiences.
+<br>
+Fun Facts:<br>
+Tea enthusiasts unite! 😊<br>
+Outside of coding, I enjoy going to the gym.<br>
 
-🚀 Check out my latest projects and let's create something amazing together! 
-
-#
-<!-- [This is a comment](https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list) -->
-[![My Skills](https://skillicons.dev/icons?i=py,r,java,js,ts,react,html,css,c,bash,aws)](https://skillicons.dev)
-
-<div>
-  <img alt="my contributions" src="https://raw.githubusercontent.com/iam-weijie/iam-weijie/output/github-contribution-grid-snake.svg" />
-</div>
