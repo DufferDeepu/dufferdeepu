@@ -6,7 +6,7 @@ I like combining my technical knowledge with design to make beautiful and effici
 
 #### Fun Facts:
 - Outside of coding, I enjoy going to the gym.
-- Tea enthusiasts unite! 😊.
+- Tea enthusiasts unite! 😊..
 
 
 
