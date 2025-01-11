@@ -7,7 +7,7 @@ Outside of work, I am passionate about expanding my knowledge of the tech world.
 
 #### Fun Facts:
 - Outside of coding, I enjoy going to the gym.
-- Tea enthusiasts unite! 😊.
+- Tea enthusiasts unite! 😊...
 
 
 
